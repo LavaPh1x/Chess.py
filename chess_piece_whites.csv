@@ -1,0 +1,17 @@
+piece,color,position
+rook,white,a1
+bishop,white,b1
+knight,white,c1
+king,white,d1
+queen, white,e1
+knight,white,f1
+bishop,white,g1
+rook,white,h1
+pawn,white,a2
+pawn,white,b2
+pawn,white,c2
+pawn,white,d2
+pawn,white,e2
+pawn,white,f2
+pawn,white,g2
+pawn,white,h2
