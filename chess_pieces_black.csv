@@ -1,17 +1,17 @@
 piece,color,position
-rook,black,a1
-bishop,black,b1
-knight,black,c1
-king,black,d1
-queen, black,e1
-knight,black,f1
-bishop,black,g1
-rook,black,h1
-pawn,black,a2
-pawn,black,b2
-pawn,black,c2
-pawn,black,d2
-pawn,black,e2
-pawn,black,f2
-pawn,black,g2
-pawn,black,h2
+rook,black,h8
+bishop,black,g8
+knight,black,f8
+king,black,e8
+queen, black,d8
+knight,black,c8
+bishop,black,b8
+rook,black,a8
+pawn,black,h7
+pawn,black,g7
+pawn,black,f7
+pawn,black,e7
+pawn,black,d7
+pawn,black,c7
+pawn,black,b7
+pawn,black,a7
