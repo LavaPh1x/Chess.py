@@ -1,8 +1,12 @@
+import re
+
 def getposition(piece):
   ...
 
-def checkmove(piece, position):
+def checkmove(command):
+  if not match:= re.search(r"(rook|knight|bishop|king|queen|pawn)( [a-h][1-8])? to ([a-h][1-8])", command.strip(), re.IGNORECASE): return False
   ...
+    
   
 def updateboard(piece, position):
   if not checkmove: return ...
